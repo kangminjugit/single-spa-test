@@ -1,0 +1,5 @@
+{
+    "imports": {
+      "@test/app1": "//localhost:9000/test-app1.js"
+    }
+}
